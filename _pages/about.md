@@ -9,6 +9,6 @@ redirect_from:
 
 
 
-A data-driven personal website
+Title?
 ======
 hogehoge
