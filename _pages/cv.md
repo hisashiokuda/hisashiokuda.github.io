@@ -9,8 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Hisashi Okuda
+<p style="font-size: x-large;">Hisashi Okuda 奥田 尚</p>
 
+Ph.D Student <br>
+Research Institute for Mathematical Sciences, Kyoto University <br>
+okuda [at] kurims.kyoto-u.ac.jp <br>
+
+ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
+Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:target="_blank"}
 
 Education
 ======
@@ -33,15 +39,24 @@ Work experience
   
 Publications
 ======
+See [Publications](/publications/)
+
+{% comment %}
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endcomment %}
   
-Talks
+Presentations
 ======
+
+See [Presentations](/talks/)
+
+{% comment %}
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+{% endcomment %}
 
 <!--
 Teaching

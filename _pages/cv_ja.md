@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV-japanese"
+title: "CV-Japanese"
 permalink: /cv-ja/
 author_profile: true
 redirect_from:
@@ -9,15 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-奥田 尚 Okuda Hisashi
+<p style="font-size: x-large;">奥田 尚 Okuda Hisashi</p>
 
-京都大学 数理解析研究所 博士後期課程 4回生
+京都大学 数理解析研究所 博士後期課程 4回生 <br>
+okuda [at] kurims.kyoto-u.ac.jp <br>
+
+ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
+Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:target="_blank"}
 
 Education
 ======
 * 博士 (理学), 京都大学理学研究科数学・数理解析専攻, 2025 (expected)
   * 流体力学, 応用数学
   * 指導教員: 竹広 真一 准教授 (京都大学数理解析研究所), Prof. Stéphane Labrosse (ENS de Lyon)
+  * 学位論文: 
 * 修士 (理学), 京都大学理学研究科数学・数理解析専攻, 2022
 * 学士 (理学), 京都大学理学部 (物理科学系), 2020
 
@@ -33,23 +38,11 @@ Work experience
   
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  [Publications](/publications/)
 
-<!--
-Teaching
+Presentations
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
+  [Presentations](/talks/)
 
 Grants
 ======
@@ -63,7 +56,7 @@ Awards
 
 Skills
 ======
-* Skill
+* 教員免許 高校理科1種, 中学校理科1種
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2

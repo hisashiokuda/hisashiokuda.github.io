@@ -1,7 +1,13 @@
 <p style="font-size: smaller">
   Citation:
   {{ page.author }}, ({{ page.year }}), {{ page.title }}.
+  {% if page.journal %}
   <i>{{ page.journal }}</i>,
+  {% endif %}
+  {% if page.volume %}
   {{ page.volume }}:{{ page.pages }}. <br>
-  {% if page.doi %} DOI: <a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a>{% endif %}
+  {% endif %}
+  {% if page.doi %}
+  DOI: <a href="https://doi.org/{{ page.doi }}" target="_blank">{{ page.doi }}</a>
+  {% endif %}
 </p>
