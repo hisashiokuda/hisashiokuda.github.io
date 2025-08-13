@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Hisashi Okuda
+
+
 Education
 ======
-* Ph.D in Science, Kyoto University, 2025 (expected)
+* Ph.D in Mathematical Science, Research Institute for Mathematical Sciences, Kyoto University, 2025 (expected)
   * Fluid dynamics, Applied mathematics
-  * Supervisors: Prof. Shin-ichi Takehiro (Kyoto U.), Prof. Stéphane Labrosse (ENS de Lyon)
-* M.S. in Science, Kyoto University, 2022
-* B.S. in Science, Kyoto University, 2020
+  * Supervisors: Prof. Shin-ichi Takehiro (RIMS, Kyoto U.), Prof. Stéphane Labrosse (ENS de Lyon)
+  * Thesis title: 
+* M.Sc. in Mathematical Science, Research Institute for Mathematical Sciences, Kyoto University, 2022
+* B.Sc. in Physics, Department of Physics, Kyoto University, 2020
 
 Work experience
 ======
