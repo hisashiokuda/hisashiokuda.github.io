@@ -399,3 +399,8 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.page__content.talks__content ul ul {
+    list-style: none;
+    font-size: 0.8em;
+}

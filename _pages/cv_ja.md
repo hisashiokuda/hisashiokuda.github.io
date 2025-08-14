@@ -29,11 +29,11 @@ Education
 Work experience
 ======
 * 2月 2023 - 11月 2025: オフィス・アシスタント
-  * 京都大学理学研究科サイエンス連携探索センター
+  * 京都大学大学院理学研究科サイエンス連携探索センター
   * 高校生の探究活動支援 (COCOUS-R プロジェクトの運営)
 
 * 4月 2020 - 2月 2022: ティーチング・アシスタント
-  * 京都大学理学研究科数学教室
+  * 京都大学大学院理学研究科数学教室
   * 講義 (線形代数学, 微分積分学) のアシスタント
   
 Publications
@@ -46,8 +46,8 @@ Presentations
 
 Grants
 ======
-* Apr 2022 - Mar 2025: 京都大学大学院学生支援機構プログラム (JST SPRING)
-  * Japan Science and Technology Agency
+* Apr 2022 - Mar 2025: SPRING プログラム (JST SPRING) 情報・AI分野
+  * 京都大学大学院学生支援機構 / Japan Science and Technology Agency
 
 Awards
 ======
