@@ -7,10 +7,10 @@ class: talks__content
 ---
 
 ## Presentations
-- Title
+- 内部発熱により駆動される温度依存高粘性流体の熱対流の中間的な対流構造
   - Sep 2025 - 日本流体力学会 2025 年会, 大阪公立大学中百舌鳥キャンパス
 
-- Title
+- Transitional regime of internally heated thermal convection with temperature-dependent viscosity
   - Mar 2025 - 第8回惑星深部研究会, 愛媛大学地球深部ダイナミクス研究センター
 
 - Title

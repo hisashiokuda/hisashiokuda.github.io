@@ -26,7 +26,7 @@ author:
   name             : *name #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Bio" #"Short biography for the left-hand sidebar"
-  location         : "Research Institute for Mathematical Sciences, Kyoto University"
+  location         : "RIMS, Kyoto University"
   employer         : #""
   uri              : # URL
   email            : "okuda [at] kurims.kyoto-u.ac.jp" 

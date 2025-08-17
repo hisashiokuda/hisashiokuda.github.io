@@ -16,7 +16,8 @@ Research Institute for Mathematical Sciences, Kyoto University <br>
 okuda [at] kurims.kyoto-u.ac.jp <br>
 
 ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
-Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:target="_blank"}
+Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:target="_blank"} <br>
+[CV in Japanese](/cv-ja/) <br>
 
 Education
 ======

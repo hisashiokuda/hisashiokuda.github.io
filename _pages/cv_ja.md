@@ -51,8 +51,8 @@ Grants
 
 Awards
 ======
-* Feb 2025: Ginfu prize
-  * Student award of Graduate School of Science, Kyoto University
+* Feb 2025: 銀楓賞
+  * 京都大学理学研究科 [web](https://sci.kyoto-u.ac.jp/ja/news-447){:target="_blank"}
 
 Skills
 ======
