@@ -15,6 +15,7 @@ permalink:
 date: 2025-10-1
 venue: 'Physics of the Earth and Planetary Interiors'
 paperurl: 'https://doi.org/10.1016/j.pepi.2025.107415'
+arxiv: 'http://arxiv.org/abs/2508.16249'
 ---
 
 Description
