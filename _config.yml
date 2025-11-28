@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Hisashi Okuda's web site"
 title_separator          : "-"
 name                     : &name "Hisashi Okuda"
-description              : &description "PhD student"
+description              : &description "Post-doc"
 url                      : https://hisashiokuda.github.io
 baseurl                  : ""
 repository               : "hisashiokuda/hisashiokuda.github.io"
@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : *name #"Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Bio" #"Short biography for the left-hand sidebar"
-  location         : "RIMS, Kyoto University"
+  pronouns         :       # example: "she/her"  
+  bio              : "Post-doc, PhD (Science)" #"Short biography for the left-hand sidebar"
+  location         : "LGL-TPE, ENS de Lyon"
   employer         : #""
   uri              : # URL
   email            : "okuda [at] kurims.kyoto-u.ac.jp" 
@@ -86,6 +86,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  thesis:
+    title: 'PhD thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

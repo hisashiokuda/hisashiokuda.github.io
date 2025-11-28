@@ -15,8 +15,9 @@ permalink:
 date: 2023-11-01
 venue: 'Physics of the Earth and Planetary Interiors'
 paperurl: 'https://doi.org/10.1016/j.pepi.2023.107103'
+lang: ja
 ---
 
-Description
-
-日本語説明
+温度依存粘性のある流体の熱対流問題について, 水平方向の長さスケールと熱対流構造との関係を調べる. <br>
+熱輸送量に対する Rayleigh 数, 粘性の温度依存性の強さ $\gamma$, および水平方向波長のパラメーター依存性に関するスケーリング関係を数値的および理論的に導出する.
+中間的な粘性コントラストを持つ対流は, 水平方向波長が大きくなることが示唆される. 

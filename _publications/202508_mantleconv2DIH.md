@@ -1,4 +1,5 @@
 ---
+lang: ja
 title: "Convective regimes of internally heated steady thermal convection of temperature-dependent viscous fluid"
 author: "Hisashi Okuda, Shin-ichi Takehiro, Stéphane Labrosse"
 year: 2025
@@ -15,9 +16,15 @@ permalink:
 date: 2025-10-1
 venue: 'Physics of the Earth and Planetary Interiors'
 paperurl: 'https://doi.org/10.1016/j.pepi.2025.107415'
-arxiv: 'http://arxiv.org/abs/2508.16249'
 ---
 
-Description
+<!--
+arxiv: 'http://arxiv.org/abs/2508.16249'
+-->
 
-日本語説明
+内部熱源によって駆動される, 温度依存高粘性流体の熱対流問題について,
+定常状態の熱対流解を数値計算し,
+パラメーターによる熱対流パターンの分類を行う. <br>
+マントル対流の上に現れるプレートおよびそのテクトニクスの有無と関連して, 熱対流パターンは, 流体中の剛体的な層 (リッド) の有無とその可動性により分類される. <br>
+結果として, 対流パターンの分類は, 適切なアウトプットパラメーターを取ることで, 過去に示された下部加熱駆動の熱対流問題と質的に整合する. <br>
+また本研究の分類方法と結果は, Arrhenius 則レオロジーの場合でも質的に (量的にもある程度) 整合的である. 
