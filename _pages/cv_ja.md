@@ -13,7 +13,7 @@ lang: ja
 <p style="font-size: x-large;">奥田 尚 Okuda Hisashi</p>
 
 ポスドク研究員 <br>
-[Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/),
+[Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"},
 École Normale Superieure de Lyon
 <!-- Université de Lyon -->
 <br>
@@ -31,7 +31,7 @@ Education
 ======
 * 博士 (理学), 京都大学理学研究科数学・数理解析専攻, 2025
   * 分野: 流体力学, 応用数学
-  * 指導教員: 竹広 真一 准教授 (京都大学数理解析研究所), Prof. Stéphane Labrosse (ENS de Lyon) (副指導教員)
+  * 指導教員: 竹広 真一 准教授 (京都大学数理解析研究所), Prof. Stéphane Labrosse (ENS de Lyon, 副)
   * 学位論文: Dynamical structures of internally heated thermal convection with temperature-dependent viscosity
 * 修士 (理学), 京都大学理学研究科数学・数理解析専攻, 2022
 * 学士 (理学), 京都大学理学部 (物理科学系), 2020
@@ -40,18 +40,21 @@ Work experience
 ======
 * 2月2026 - 現在: ポスドク研究員
   * LGL-TPE, ENS de Lyon
-  * Mantle dynamics
+  * 研究テーマ: Dynamics of planetary interiors
 
 * 12月 2025 - 1月2026: 教務補佐員
   * 京都大学大学院理学研究科附属サイエンス連携探索センター
-  * 高校生の探究活動支援 (COCOUS-R プロジェクトの運営)
+  * 高大連携事業 (COCOUS-R プロジェクトの運営)
+
+* 4月 2025 - 11月 2025: リサーチアシスタント
+  * 京都大学数理解析研究所
 
 * 2月 2023 - 11月 2025: オフィス・アシスタント
   * 京都大学大学院理学研究科附属サイエンス連携探索センター
-  * 高校生の探究活動支援 (COCOUS-R プロジェクトの運営)
 
 * 4月 2022 - 3月 2025: SPRING プログラム 研究員, 情報・AI分野
   * 京都大学大学院学生支援機構 / JST
+  * 研究テーマ: マントル対流・熱対流問題の数値計算研究
 
 * 4月 2020 - 2月 2022: ティーチング・アシスタント
   * 京都大学大学院理学研究科数学教室

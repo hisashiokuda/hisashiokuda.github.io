@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-lang:en
+lang: en
 ---
 
 
@@ -34,12 +34,11 @@ Research Interests
 
 (Geo-)Fluid Dynamics, Applied Mathematics
 
-数値計算と応用数学的解析を通じて, 惑星内部のダイナミクスの理解を目指しています. 
+Studies on dynamics of planetary interiors based on numerical calculations and mathematical analyses 
 
-- (流体力学) 粘性流体の数値シミュレーション (特に Stokes 流体)
-- (応用数学) 熱対流問題のパターン形成と分岐
-- (地球物理学) マントル対流と惑星表層のダイナミクス
-- (惑星科学) 惑星内部構造・ダイナミクスの多様性, 惑星進化
+- Fluid dynamics - Numerical calculations of viscous fluids (Stokes fluids)
+- Mathematical analyses - Pattern formation and bifurcation of thermal convection problems
+- Geodynamics, Planetary science - Mantle convection, Dynamics of planetary interiors
 
 
 Colaborators

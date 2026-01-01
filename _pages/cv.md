@@ -11,8 +11,9 @@ redirect_from:
 
 <p style="font-size: x-large;">Hisashi Okuda 奥田 尚</p>
 
-Ph.D Student <br>
-Research Institute for Mathematical Sciences, Kyoto University <br>
+Post-doc <br>
+[Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"},
+École Normale Superieure de Lyon <br>
 okuda [at] kurims.kyoto-u.ac.jp <br>
 
 ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
@@ -21,23 +22,39 @@ Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:targ
 
 Education
 ======
-* Ph.D in Mathematical Science, Research Institute for Mathematical Sciences, Kyoto University, 2025 (expected)
+* Ph.D. in Mathematical Science, Research Institute for Mathematical Sciences, Kyoto University, 2025
   * Fluid dynamics, Applied mathematics
   * Supervisors: Prof. Shin-ichi Takehiro (RIMS, Kyoto U.), Prof. Stéphane Labrosse (ENS de Lyon)
-  * Thesis title: 
+  * Thesis title: Dynamical structures of internally heated thermal convection with temperature-dependent viscosity
 * M.Sc. in Mathematical Science, Research Institute for Mathematical Sciences, Kyoto University, 2022
 * B.Sc. in Physics, Department of Physics, Kyoto University, 2020
 
 Work experience
 ======
-* Feb 2023 - Nov 2025: Office Assistant
-  * SACRA, Graduate School of Science, Kyoto University
-  * Scientific outreach activities for high school students
 
-* Apr 2020 - Feb 2022: Teaching Assistant
-  * Department of Mathematics, Kyoto University
-  * Assistance for lectures (Linear algebra, Calculus)
-  
+* Feb 2026 - Present: Post doctral researcher
+  * LGL-TPE, ENS de Lyon
+  * Research theme: Dynamics of planetary interiors
+
+* Dec 2025 - Jan 2026: Assistant teaching staff
+  * SACRA, Graduate School of Science, Kyoto Univ
+  * Scientific outreach activities
+
+* Apr 2025 - Nov 2025: Research assistant
+  * RIMS, Kyoto Univ
+
+* Feb 2023 - Nov 2025: Office assistant
+  * SACRA, Graduate School of Science, Kyoto Univ
+
+* Apr 2022 - Mar 2025: SPRING program research fellow
+  * Division of Graduate Studies, Kyoto Univ / Japan Science and Technology Agency
+  * Research theme: Numerical studies of thermal convection
+
+{% comment %}
+* Apr 2020 - Feb 2022: Teaching assistant
+  * Department of Mathematics, Kyoto Univ
+{% endcomment %}
+
 Publications
 ======
 See [Publications](/publications/)
@@ -47,7 +64,8 @@ See [Publications](/publications/)
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 {% endcomment %}
-  
+
+
 Presentations
 ======
 
@@ -67,10 +85,10 @@ Teaching
   {% endfor %}</ul>
 -->
 
+<!--
 Grants
 ======
-* Apr 2022 - Mar 2025: JST SPRING program
-  * Japan Science and Technology Agency
+-->
 
 Awards
 ======
@@ -79,10 +97,4 @@ Awards
 
 Skills
 ======
-* Skill
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Teaching license (High school and Junior high school, Science)

@@ -29,10 +29,10 @@ lang: ja
 - Structure of plate motion and thermal convection with temperature and stress dependent viscosity
   - Mar 2023 - 第4回惑星深部研究会, 愛媛大学地球深部ダイナミクス研究センター
 
-- Title
+- 温度依存高粘性流体の熱対流の水平スケール
   - Sep 2022 - 日本流体力学会 2022年会, 京都大学吉田キャンパス
 
-- Title
+- 温度依存高粘性流体の熱対流の水平スケールとレジーム遷移
   - May 2022 - 日本地球惑星科学連合 (JpGU) 2022年大会, 幕張メッセ/千葉県 (Online)
 
 

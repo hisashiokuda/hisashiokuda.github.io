@@ -18,10 +18,6 @@ venue: 'Physics of the Earth and Planetary Interiors'
 paperurl: 'https://doi.org/10.1016/j.pepi.2025.107415'
 ---
 
-<!--
-arxiv: 'http://arxiv.org/abs/2508.16249'
--->
-
 内部熱源によって駆動される, 温度依存高粘性流体の熱対流問題について,
 定常状態の熱対流解を数値計算し,
 パラメーターによる熱対流パターンの分類を行う. <br>
