@@ -18,33 +18,43 @@ hogehoge
 Personal Information
 -------
 
-<p style="font-size: x-large;"> Hisashi Okuda 奥田 尚 </p>
+<p style="font-size: x-large;"> Hisashi Okuda <br> 奥田 尚 </p>
 
-Post-doc researcher <br>
-LGL-TPE, ENS de Lyon <!--, Université de Lyon --> <br>
-Adress: 46, Allée d'Italie, 69364 Lyon 07, France <br>
+Post-doc  <br>
+LGL-TPE, Ecole Normale Supérieure de Lyon  <br>
+Adress: 46, Allée d'Italie, 69007 Lyon, France <br>
+E-mail: hisashi.okuda [at] ens-lyon.fr <br>
 
 Ph.D. in Science (Kyoto University, 2025)
 
 [CV](/cv/)
 
+Current works
+-----
+
+- Dynamics of slushy magma ocean
+- Formation of crustal lids of terrestrial planets
+
+ Supervisor: Prof. Chloé Michat (ENS de Lyon) <br>
+ CRUSLID project <br>
+
 
 Research Interests
 -----
 
-(Geo-)Fluid Dynamics, Applied Mathematics
+Geodynamics, Fluid Dynamics, Applied Mathematics
 
 Studies on dynamics of planetary interiors based on numerical calculations and mathematical analyses 
 
-- Fluid dynamics - Numerical calculations of viscous fluids (Stokes fluids)
+- Fluid dynamics - Numerical calculations of highly viscous fluids (Stokes flow)
 - Mathematical analyses - Pattern formation and bifurcation of thermal convection problems
-- Geodynamics, Planetary science - Mantle convection, Dynamics of planetary interiors
+- Geodynamics, Planetary science - Mantle convection, Dynamics and formation of planetary interiors
 
-
+<!--
 Colaborators
 -----
 - 
-
+-->
 
 Publications
 -----
@@ -61,9 +71,9 @@ Presentations
 News
 ----
 
--  2, 2026: HP を開設しました.
--  2, 2026: ENS de Lyon のポスドク研究員になりました.
-- 11, 2025: 学位を取得しました.
+- Feb, 2026: HP を開設しました.
+- Feb, 2026: ENS de Lyon のポスドク研究員になりました.
+- Nov, 2025: 学位を取得しました.
 
 <!--
 - ダミー

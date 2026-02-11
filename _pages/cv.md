@@ -13,8 +13,9 @@ redirect_from:
 
 Post-doc <br>
 [Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"},
-École Normale Superieure de Lyon <br>
-okuda [at] kurims.kyoto-u.ac.jp <br>
+École Normale Supérieure de Lyon <br>
+E-mail: hisashi.okuda [at] ens-lyon.fr <br>
+<!--        okuda [at] kurims.kyoto-u.ac.jp <br> -->
 
 ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
 Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:target="_blank"} <br>
