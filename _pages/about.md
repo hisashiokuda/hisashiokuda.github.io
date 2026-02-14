@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Hisashi Okuda's web site"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,7 +22,7 @@ Personal Information
 
 Post-doc  <br>
 LGL-TPE, Ecole Normale Supérieure de Lyon  <br>
-Adress: 46, Allée d'Italie, 69007 Lyon, France <br>
+Adress: 46 Allée d'Italie, 69007 Lyon, France <br>
 E-mail: hisashi.okuda [at] ens-lyon.fr <br>
 
 [CV](/cv/)
@@ -34,7 +34,7 @@ Current works
 - Formation of stagnant lids of terrestrial planets
 
  Supervisor: Prof. Chloé Michaut (ENS de Lyon) <br>
- [CRUSLID project](https://perso.ens-lyon.fr/chloe.michaut/ERC_CRUSLID/ERC_CRUSLID.html) <br>
+ [CRUSLID project](https://perso.ens-lyon.fr/chloe.michaut/ERC_CRUSLID/ERC_CRUSLID.html){:target="_blank"} <br>
 
 
 Research Interests

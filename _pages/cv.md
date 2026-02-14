@@ -12,9 +12,10 @@ redirect_from:
 <p style="font-size: x-large;">Hisashi Okuda 奥田 尚</p>
 
 Post-doc <br>
-[Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"},
+[Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"} (LGL-TPE),
 École Normale Supérieure de Lyon <br>
-E-mail: hisashi.okuda [at] ens-lyon.fr <br>
+E-mail: 
+hisashi.okuda [at] ens-lyon.fr <br>
 <!--        okuda [at] kurims.kyoto-u.ac.jp <br> -->
 
 ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
@@ -23,8 +24,8 @@ Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:targ
 
 Education
 ======
-* Ph.D. in Mathematical Science, Research Institute for Mathematical Sciences, Kyoto University, 2025
-  * Fluid dynamics, Applied mathematics
+* Ph.D. in Mathematical Science, [Research Institute for Mathematical Sciences](https://www.kurims.kyoto-u.ac.jp/en/index.html){:target='_blank'}, Kyoto University, 2025
+  * [Fluid dynamics](https://www.kurims.kyoto-u.ac.jp/fluid/){:target='_blank'}, Applied mathematics
   * Supervisors: Prof. Shin-ichi Takehiro (RIMS, Kyoto U.), Prof. Stéphane Labrosse (ENS de Lyon)
   * Thesis title: Dynamical structures of internally heated thermal convection with temperature-dependent viscosity
 * M.Sc. in Mathematical Science, Research Institute for Mathematical Sciences, Kyoto University, 2022
@@ -33,12 +34,13 @@ Education
 Work experience
 ======
 
-* Feb 2026 - Present: Post doctral researcher
-  * LGL-TPE, ENS de Lyon
-  * Research theme: Dynamics of planetary interiors
+* Feb 2026 - Present: Post doctoral researcher
+  * [LGL-TPE](https://lgltpe.fr/){:target="_blank"}, Ecole Normale Supérieure de Lyon
+  * [CRUSLID project](https://perso.ens-lyon.fr/chloe.michaut/ERC_CRUSLID/ERC_CRUSLID.html){:target="_blank"}; Supervisor: Chloé Michaut
+  * Research theme: Dynamics in planetary interiors, mantle convection
 
 * Dec 2025 - Jan 2026: Assistant teaching staff
-  * SACRA, Graduate School of Science, Kyoto Univ
+  * SACRA, Graduate School of Science, Kyoto University
   * Scientific outreach activities
 
 * Apr 2025 - Nov 2025: Research assistant
