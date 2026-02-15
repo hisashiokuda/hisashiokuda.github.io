@@ -14,7 +14,7 @@ lang: ja
 
 ポスドク研究員 <br>
 [Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"} (LGL-TPE),
-École Normale Superieure de Lyon
+École Normale Supérieure de Lyon
 <!-- Université de Lyon -->
 <br>
 (リヨン地球惑星環境科学研究所<sup>*1</sup>, リヨン高等師範学校) <br>
@@ -22,7 +22,7 @@ lang: ja
 
 Email:
 hisashi.okuda [at] ens-lyon.fr <br>
-<span style="font-size: small;">* kurims.kyoto-u.ac.jp アドレスもしばらく利用可. ご存知の方はそちらもどうぞ.</span><br>
+<span style="font-size: small;">* kurims.kyoto-u.ac.jp アドレスもしばらく利用可. </span><br>
 
 
 ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
