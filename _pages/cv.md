@@ -96,4 +96,4 @@ Awards
 
 Skills
 ======
-* Teaching license on Science (High school and Junior high school, Japan)
+* Teaching license (Science, High school and Junior high school, Japan)
