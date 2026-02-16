@@ -19,9 +19,13 @@ Personal Information
 <p style="font-size: x-large;">奥田 尚 (おくだ ひさし) </p>
 
 ポスドク研究員 <br>
-LGL-TPE, Ecole Normale Supérieure de Lyon<!--, Université de Lyon --> <br>
+[Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"} (LGL-TPE),
+École Normale Supérieure de Lyon
+<!-- Université de Lyon -->
+<br>
 Adress: 46 Allée d'Italie, 69007 Lyon, France <br>
 Email: hisashi.okuda [at] ens-lyon.fr <br>
+<span style="font-size: small;">* kurims.kyoto-u.ac.jp アドレスもしばらく利用可. </span><br>
 
 博士 (理学) (京都大学, 2025)
 
