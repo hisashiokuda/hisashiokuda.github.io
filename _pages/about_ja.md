@@ -34,8 +34,8 @@ Email: hisashi.okuda [at] ens-lyon.fr <br>
 Current works
 -----
 
-- マグマオーシャン (slushy なマントル) のダイナミクスと進化
-- 岩石惑星のスタグナント・リッドの形成過程
+- マグマオーシャン (slushy マントル) のダイナミクス
+- 岩石惑星のスタグナント・リッドの形成過程・進化
 
  Supervisor: Prof. Chloé Michaut (ENS de Lyon) <br>
  [CRUSLID project](https://perso.ens-lyon.fr/chloe.michaut/ERC_CRUSLID/ERC_CRUSLID.html){:target="_blank"} <br>
@@ -44,7 +44,7 @@ Current works
 Research Interests
 -----
 
-分野: (地球)流体力学, 応用数学, 地球物理学
+分野: (地球)流体力学, 応用数学, 地球惑星内部物理学, Geodynamics
 
 数値計算と応用数学的解析を通じて, 惑星内部のダイナミクスの理解を目指しています. 
 

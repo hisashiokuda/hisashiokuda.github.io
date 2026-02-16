@@ -14,9 +14,8 @@ redirect_from:
 Post-doc <br>
 [Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"} (LGL-TPE),
 École Normale Supérieure de Lyon <br>
-E-mail: 
-hisashi.okuda [at] ens-lyon.fr <br>
-<!--        okuda [at] kurims.kyoto-u.ac.jp <br> -->
+Adress: 46 Allée d'Italie, 69007 Lyon, France <br>
+Email: hisashi.okuda [at] ens-lyon.fr <br>
 
 ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
 Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:target="_blank"} <br>
@@ -27,7 +26,7 @@ Education
 * Ph.D. in Mathematical Science, [Research Institute for Mathematical Sciences](https://www.kurims.kyoto-u.ac.jp/en/index.html){:target='_blank'}, Kyoto University, 2025
   * [Fluid dynamics](https://www.kurims.kyoto-u.ac.jp/fluid/){:target='_blank'}, Applied mathematics
   * Supervisors: Prof. Shin-ichi Takehiro (RIMS, Kyoto U.), Prof. Stéphane Labrosse (ENS de Lyon)
-  * Thesis title: Dynamical structures of internally heated thermal convection with temperature-dependent viscosity
+  * Thesis title: Dynamical structures of internally heated thermal convection with temperature-dependent viscosity [Kyoto Univ Repository](https://doi.org/10.14989/doctor.k26351){:target='_blank'}
 * M.Sc. in Mathematical Science, Research Institute for Mathematical Sciences, Kyoto University, 2022
 * B.Sc. in Physics, Department of Physics, Kyoto University, 2020
 
@@ -51,16 +50,14 @@ Work experience
 
 * Apr 2022 - Mar 2025: SPRING program research fellow
   * Division of Graduate Studies, Kyoto Univ / Japan Science and Technology Agency
-  * Research theme: Numerical studies of thermal convection
+  * Research theme: Mathematical analyses of thermal convection in terrestrial planets
 
-{% comment %}
 * Apr 2020 - Feb 2022: Teaching assistant
   * Department of Mathematics, Kyoto Univ
-{% endcomment %}
 
 Publications
 ======
-See [Publications](/publications/)
+  [Publications](/publications/)
 
 {% comment %}
   <ul>{% for post in site.publications reversed %}
@@ -68,11 +65,10 @@ See [Publications](/publications/)
   {% endfor %}</ul>
 {% endcomment %}
 
-
 Presentations
 ======
 
-See [Presentations](/talks/)
+  [Presentations](/talks/)
 
 {% comment %}
   <ul>{% for post in site.talks reversed %}
@@ -100,4 +96,4 @@ Awards
 
 Skills
 ======
-* Teaching license (High school and Junior high school, Science)
+* Teaching license on Science (High school and Junior high school, Japan)

@@ -21,7 +21,7 @@ Personal Information
 <p style="font-size: x-large;"> Hisashi Okuda <br> 奥田 尚 </p>
 
 Post-doc  <br>
-LGL-TPE, Ecole Normale Supérieure de Lyon  <br>
+LGL-TPE, École Normale Supérieure de Lyon  <br>
 Adress: 46 Allée d'Italie, 69007 Lyon, France <br>
 E-mail: hisashi.okuda [at] ens-lyon.fr <br>
 

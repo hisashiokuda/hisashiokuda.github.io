@@ -18,13 +18,12 @@ lang: ja
 <!-- Université de Lyon -->
 <br>
 (リヨン地球惑星環境科学研究所<sup>*1</sup>, リヨン高等師範学校) <br>
-<span style="font-size: small;">*1 一般的な日本語定訳はありません</span><br>
-
+<span style="font-size: small;">*1 日本語定訳はありません</span><br>
 Adress: 46 Allée d'Italie, 69007 Lyon, France <br>
 Email: hisashi.okuda [at] ens-lyon.fr <br>
 
 ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
-Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:target="_blank"}
+Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:target="_blank"} <br>
 
 Education
 ======
