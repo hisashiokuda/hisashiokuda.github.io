@@ -49,7 +49,7 @@ Work experience
   * SACRA, Graduate School of Science, Kyoto Univ
 
 * Apr 2022 - Mar 2025: SPRING program research fellow
-  * Division of Graduate Studies, Kyoto Univ / Japan Science and Technology Agency
+  * Division of Graduate Studies, Kyoto Univ / Japan Science and Technology Agency (JST)
   * Research theme: Mathematical analyses of thermal convection in terrestrial planets
 
 * Apr 2020 - Feb 2022: Teaching assistant
