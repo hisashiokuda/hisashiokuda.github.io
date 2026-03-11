@@ -22,14 +22,14 @@ repository               : "hisashiokuda/hisashiokuda.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : *name #"Your Sidebar Name"
   pronouns         :       # example: "she/her"  
   bio              : "Post-doc, PhD (Science)" #"Short biography for the left-hand sidebar"
   location         : "LGL-TPE, ENS de Lyon"
   employer         : #""
   uri              : # URL
-  email            : "hisashi.okuda [at] ens-lyon.frp" 
+  email            : "hisashi.okuda [at] ens-lyon.fr" 
 
   # Academic websites
   academia         : # URL
@@ -136,7 +136,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :

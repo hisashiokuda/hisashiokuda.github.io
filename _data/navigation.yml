@@ -23,7 +23,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "CV"
+  - title: " CV "
     url: /cv/
     
   # - title: "CV"
@@ -32,5 +32,5 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "Japanese"
+  - title: "Home - Japanese"
     url: /ja/

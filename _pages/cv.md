@@ -23,7 +23,7 @@ Research Map (Japanese): [R000087911](https://researchmap.jp/okudahisashi){:targ
 
 Education
 ======
-* Ph.D. in Mathematical Science, [Research Institute for Mathematical Sciences](https://www.kurims.kyoto-u.ac.jp/en/index.html){:target='_blank'}, Kyoto University, 2025
+* Ph.D. in Mathematical Science, [Research Institute for Mathematical Sciences (RIMS)](https://www.kurims.kyoto-u.ac.jp/en/index.html){:target='_blank'}, Kyoto University, 2025
   * [Fluid dynamics](https://www.kurims.kyoto-u.ac.jp/fluid/){:target='_blank'}, Applied mathematics
   * Supervisors: Prof. Shin-ichi Takehiro (RIMS, Kyoto U.), Prof. Stéphane Labrosse (ENS de Lyon)
   * Thesis title: Dynamical structures of internally heated thermal convection with temperature-dependent viscosity [Kyoto Univ Repository](https://doi.org/10.14989/doctor.k26351){:target='_blank'}

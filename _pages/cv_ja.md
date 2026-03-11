@@ -10,14 +10,16 @@ lang: ja
 
 {% include base_path %}
 
-<p style="font-size: x-large;">奥田 尚 おくだ ひさし Okuda Hisashi</p>
+<p style="font-size: x-large;">奥田 尚 </p> <br>
+おくだ ひさし Okuda Hisashi <br>
 
 ポスドク研究員 <br>
+所属: 
 [Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"} (LGL-TPE),
 École Normale Supérieure de Lyon
 <!-- Université de Lyon -->
 <br>
-(リヨン地球惑星環境科学研究所<sup>*1</sup>, リヨン高等師範学校) <br>
+(リヨン地球惑星環境科学研究所<sup>*1</sup>, リヨン高等師範学校) 
 <span style="font-size: small;">*1 日本語定訳はありません</span><br>
 Adress: 46 Allée d'Italie, 69007 Lyon, France <br>
 Email: hisashi.okuda [at] ens-lyon.fr <br>
