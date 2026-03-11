@@ -14,7 +14,7 @@ redirect_from:
 Post-doc <br>
 [Laboratoire de Géologie de Lyon, Terre - Planètes - Environnement](https://lgltpe.fr/){:target="_blank"} (LGL-TPE),
 École Normale Supérieure de Lyon <br>
-Adress: 46 Allée d'Italie, 69007 Lyon, France <br>
+Address: 46 Allée d'Italie, 69007, Lyon, France <br>
 Email: hisashi.okuda [at] ens-lyon.fr <br>
 
 ORCID: [0009-0004-7062-3550](https://orcid.org/0009-0004-7062-3550){:target="_blank"} <br>
