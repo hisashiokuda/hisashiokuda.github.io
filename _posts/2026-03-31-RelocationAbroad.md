@@ -4,6 +4,7 @@ date: 2026-03-31
 permalink: /posts/2026/002
 tags:
   - japan-gov
+lang: ja
 ---
 
 国外転出に際して行った様々な手続きのまとめ
