@@ -4,6 +4,7 @@ title: "奥田尚 のホームページ"
 author_profile: true
 lang: ja
 redirect_from: 
+  - /about_ja/
 ---
 
 <!--
@@ -23,7 +24,7 @@ Personal Information
 École Normale Supérieure de Lyon
 <!-- Université de Lyon -->
 <br>
-Adress: 46 Allée d'Italie, 69007 Lyon, France <br>
+Address: 46 Allée d'Italie, 69007 Lyon, France <br>
 Email: hisashi.okuda [at] ens-lyon.fr <br>
 <span style="font-size: small;">* kurims.kyoto-u.ac.jp アドレスもしばらく利用可. </span><br>
 
@@ -77,7 +78,6 @@ Research Interests
 -  2月, 2026: HP を開設しました.
 -  2月, 2026: ENS de Lyon のポスドク研究員になりました.
 - 11月, 2025: 学位を取得しました.
-
 <!--
-- ダミー
+[トップページ](/about/)をご覧ください.
 -->
