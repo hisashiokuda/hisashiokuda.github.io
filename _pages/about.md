@@ -8,13 +8,6 @@ redirect_from:
 lang: en
 ---
 
-
-<!--
-Title?
-======
-hogehoge
--->
-
 Personal Information
 -------
 
@@ -22,7 +15,7 @@ Personal Information
 
 Post-doc  <br>
 LGL-TPE, École Normale Supérieure de Lyon  <br>
-Adress: 46 Allée d'Italie, 69007 Lyon, France <br>
+Address: 46 Allée d'Italie, 69007 Lyon, France <br>
 E-mail: hisashi.okuda [at] ens-lyon.fr <br>
 
 [CV](/cv/)
@@ -72,7 +65,3 @@ News
 - Feb, 2026: HP を開設しました.
 - Feb, 2026: ENS de Lyon のポスドク研究員になりました.
 - Nov, 2025: 学位を取得しました.
-
-<!--
-- ダミー
--->
