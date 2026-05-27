@@ -27,8 +27,8 @@ author_profile: false
 - 電子証明を再発行するため, 電子証明書の有効期限が手続き日から5年間になる. (カードの有効期限がそれより前であれば, カードの有効期限まで.)
 
 ### 参考情報
-- [国外転出届 品川区HP](https://www.city.shinagawa.tokyo.jp/PC/procedure/procedure-zyuumin_inkan/procedure-zyuumin_inkan-zyuumin/procedure-zyuumin_inkan-zyuumin-todoke/20241112kokugaitensyutsu.html){:target="_blank"}
-- [国外転出に伴うマイナンバーカード継続利用 品川区HP](https://www.city.shinagawa.tokyo.jp/PC/procedure/mynumbercard/MyNumberCardAbroad.html){:target="_blank"}
+- [国外転出届 品川区](https://www.city.shinagawa.tokyo.jp/PC/procedure/procedure-zyuumin_inkan/procedure-zyuumin_inkan-zyuumin/procedure-zyuumin_inkan-zyuumin-todoke/20241112kokugaitensyutsu.html){:target="_blank"}
+- [国外転出に伴うマイナンバーカード継続利用 品川区](https://www.city.shinagawa.tokyo.jp/PC/procedure/mynumbercard/MyNumberCardAbroad.html){:target="_blank"}
 
 ### 関連情報
 - 日本国外で「海外居住者用マイナンバーカード」が失効したとき
@@ -51,7 +51,7 @@ author_profile: false
 
 ## 納税管理人の届出
 
-参考: [納税管理人の申告 清瀬市HP](https://www.city.kiyose.lg.jp/kurashi/zeikin/shi_tominzei/1009450/1003586.html){:target="_blank"}
+参考: [納税管理人の申告 清瀬市](https://www.city.kiyose.lg.jp/kurashi/zeikin/shi_tominzei/1009450/1003586.html){:target="_blank"}
 
 - e-tax ソフト (確定申告等で使うウェブアプリではなく, ダウンロードして使うフル機能版ソフトウェアのほう) を利用して申請できる. 
   - 手順: ソフト上で書類作成 -> 作成した書類をアップロード 
@@ -63,14 +63,14 @@ author_profile: false
 - 筆者は滞在予定期間中に運転免許証の有効期限を迎えないので, そのまま有効.
 
 ### 日本の「海外運転免許証」
-- [国外運転免許証取得手続き](https://www.keishicho.metro.tokyo.lg.jp/menkyo/menkyo/kokugai/kokugai01.html){:target="_blank"}
+- [国外運転免許証取得手続き 警視庁](https://www.keishicho.metro.tokyo.lg.jp/menkyo/menkyo/kokugai/kokugai01.html){:target="_blank"}
   - 有効期間は発行日から1年間, 更新なし
   - 2年目の分もほしい -> 一時帰国時に再度発行する
 
 ### 関連情報: フランスの運転免許証を発行する
-- [フランスで運転する方法](https://www.fr.emb-japan.go.jp/itpr_ja/untenhouhou.html){:target="_blank"}
+- [フランスで運転する方法 在仏日本大使館](https://www.fr.emb-japan.go.jp/itpr_ja/untenhouhou.html){:target="_blank"}
   -長期滞在者は, 入国後1年以内にフランスの運転免許証に切り替えなければならない. 
-- [フランスの運転免許証への切り替え](https://www.fr.emb-japan.go.jp/itpr_ja/untenkirikae.html){:target="_blank"}
+- [フランスの運転免許証への切り替え 在仏日本大使館](https://www.fr.emb-japan.go.jp/itpr_ja/untenkirikae.html){:target="_blank"}
 
 ## 日本の携帯電話番号を維持する
 - Povo 2.0 に乗り換えた. 維持費は半年に数百円?
@@ -92,4 +92,4 @@ author_profile: false
 きちんと手続きを行うべし. 
 
 ### クレジットカード
-参考: [FQA 三井住友カードHP](https://qa.smbc-card.com/mem/detail?site=4H4A00IO&category=67&id=161){:target="_blank"}
+参考: [FQA 三井住友カード](https://qa.smbc-card.com/mem/detail?site=4H4A00IO&category=67&id=161){:target="_blank"}
