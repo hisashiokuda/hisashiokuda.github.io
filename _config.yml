@@ -212,7 +212,8 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  #toc_levels: 1..6
+  toc_levels: 1..2
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
@@ -235,7 +236,7 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # ｔ
   - scope:
       path: ""
       type: posts
@@ -244,7 +245,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -355,4 +356,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
