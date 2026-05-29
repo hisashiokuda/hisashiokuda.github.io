@@ -92,4 +92,4 @@ author_profile: false
 きちんと手続きを行うべし. 
 
 ### クレジットカード
-参考: [FQA 三井住友カード](https://qa.smbc-card.com/mem/detail?site=4H4A00IO&category=67&id=161){:target="_blank"}
+参考: [三井住友カード](https://qa.smbc-card.com/mem/detail?site=4H4A00IO&category=67&id=161){:target="_blank"}
