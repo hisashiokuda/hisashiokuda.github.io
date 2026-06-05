@@ -37,6 +37,9 @@ lang: ja
 
 
 ## Posters
+- Characteristics of dynamics and surface mobility of internally heated thermal convection with temperature-dependent viscosity
+  - Jun 2026 - RBC2026: 10th International Conference on Rayleigh-Bénard Turbulence, ENS de Lyon, France
+
 - 内部発熱により駆動される温度依存高粘性流体の熱対流の対流構造と表面の可動性
   - Sep 2025 - 日本惑星科学会 2025年秋季講演会, 東京大学駒場キャンパス
 
@@ -44,7 +47,7 @@ lang: ja
   - May 2025 - 日本地球惑星科学連合 (JpGU) 2025年大会, 幕張メッセ/千葉県
 
 - Transitions of thermal convection structures with temperature-dependent viscosity driven by internal heating
-  - Jun 2024 - Study of the Earth's Deep Interior (SEDI) 2024, Great Barrington, MA, USA
+  - Jun 2024 - Study of the Earth's Deep Interior (SEDI) 2024, Great Barrington MA, USA
 
 - Horizontal Scale of Thermal Convection with Temperature dependent Viscosity
   - Jan 2023 - KTGU Mathematical Workshop for Young Researchers, Kyoto University, Japan
