@@ -5,6 +5,7 @@ permalink: /posts/2026/004
 tags:
   - france-gov
 author_profile: false
+classes: wide
 ---
 
 健康保険の登録に難儀している話

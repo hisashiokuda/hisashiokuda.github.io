@@ -5,6 +5,7 @@ permalink: /posts/2026/04/10
 tags:
   - france
 author_profile: false
+classes: wide
 ---
 
 フランスの居留許可証 Titre de séjour について、申請手続きから実際にカードを取得するまでをまとめる。

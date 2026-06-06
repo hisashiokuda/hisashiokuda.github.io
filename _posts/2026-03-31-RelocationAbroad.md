@@ -6,6 +6,7 @@ tags:
   - japan-gov
 lang: ja
 author_profile: false
+classes: wide
 ---
 
 {% include toc %}
